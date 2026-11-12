@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kahani.shareyourgroup.com/sitemap.xml
